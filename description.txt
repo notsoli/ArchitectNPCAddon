@@ -1,0 +1,5 @@
+Adds a new town NPC called the Architect. They sell building materials like wood, stone, dirt, and other nonrenewable or difficult to get materials.
+
+Meant to be an addon to Helpful NPCs by Caseratis, but it can be used on its own without any issues.
+
+For a complete NPC experience, I'd recommend combining this mod with Helpful NPCs by Caseratis and Just Another Alchemist NPC by CopperShortsword.
